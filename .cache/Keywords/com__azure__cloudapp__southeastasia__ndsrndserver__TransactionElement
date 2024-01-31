@@ -1,0 +1,10 @@
+{
+  "keywordFileContentHash": "330E9530CA102AEEC5403255EF98E154",
+  "keywordClasses": [
+    {
+      "name": "com.azure.cloudapp.southeastasia.ndsrndserver.TransactionElement",
+      "keywordMethods": []
+    }
+  ],
+  "javadocParsed": true
+}

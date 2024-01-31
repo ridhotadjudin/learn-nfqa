@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>btnOpenTreeEngineerTest</name>
+   <tag></tag>
+   <elementGuidId>871706f7-c41f-49f8-b517-8f72eb065fbf</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(//div[contains(@class,'x-tree-elbow-img x-tree-elbow-end-plus x-tree-expander')])[1]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>382af834-e7a9-4716-9b33-e0c364a7da7a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value> x-tree-elbow-img x-tree-elbow-end-plus x-tree-expander</value>
+      <webElementGuid>40a6aa5b-2596-4e57-9a0e-dc106f3b6295</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>role</name>
+      <type>Main</type>
+      <value>presentation</value>
+      <webElementGuid>5335826b-0d31-43dd-8019-51ffff757de2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;ext-element-11&quot;)/div[@class=&quot;x-grid-cell-inner x-grid-cell-inner-treecolumn&quot;]/div[@class=&quot;x-tree-elbow-img x-tree-elbow-end-plus x-tree-expander&quot;]</value>
+      <webElementGuid>7cdaa8b0-2dee-4e47-9b80-b48f7a24907b</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//td[@id='ext-element-11']/div/div</value>
+      <webElementGuid>691ef76f-84fd-49b3-a45b-5dfbb36e90d9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//table[2]/tbody/tr/td/div/div</value>
+      <webElementGuid>e16e7ff8-28e3-4b2b-8e95-f4aed0209b46</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
